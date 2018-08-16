@@ -2,8 +2,7 @@
 #EXTINF:-1 tvg-id="Ecmin" tvg-logo="https://gg.gg/ms-bolero" group-title="MUSIC", Nhạc Bolero
 http://cdn1.galaxyott.com/api/a3b34c0871dc2fd51eec5559b68f709d?chn=/secure/streamer/vbolero/playlist.m3u8
 ~♥Kênh Tổng Hợp♥~
-#EXTINF: -1 tvg-id="Ecmin" tvg-logo="https://gg.gg/vpop-tv" group-title="TỔNG HỢP", Vpop TV 
-http://cdn1.galaxyott.com/api/a3b34c0871dc2fd51eec5559b68f709d?chn=/secure/streamer/vpoptv/playlist.m3u8
+
 #EXTINF: -1 tvg-id="Ecmin" tvg-logo="https://gg.gg/hai-24-7" group-title="TỔNG HỢP", HÀI 24/7
 http://cdn1.galaxyott.com/api/a3b34c0871dc2fd51eec5559b68f709d?chn=/secure/streamer/hai/playlist.m3u8
 #EXTINF: -1 tvg-id="Ecmin" tvg-logo="https://gg.gg/rangdong" group-title="TỔNG HỢP", RẠNG ĐÔNG
