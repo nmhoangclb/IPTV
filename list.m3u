@@ -513,72 +513,7 @@ http://mhms5.airtel.tv/PLTV/88888888/224/3221226204/04.m3u8|User-Agent=VLC/3.0.0
 #EXTINF:-1 tvg-id="Ecmin" tvg-logo="https://gg.gg/sony-tv" group-title="TV SONY", SONY TV HD
 http://cshms2.airtel.tv/wh7f454c46tw2308406466_821284247/PLTV/88888888/224/3221225772/04.m3u8|User-Agent=VLC/3.0.0-git LibVLC/3.0.0-git
 
-~♥Kênh TV NHẬT-HÀN-TÀU♥~
-~♥Kênh TV HÀN♥~
-#EXTINF:-1 tvg-id="Ecmin" tvg-logo="https://gg.gg/arirang-tv" group-title="TV HÀN", ARIRANG 
-http://amdlive.ctnd.com.edgesuite.net/arirang_1ch/smil:arirang_1ch.smil/chunklist.m3u8
-#EXTINF:-1 tvg-id="Ecmin" tvg-logo="https://gg.gg/korea-tv" group-title="TV HÀN", ALL THE K-POP
-https://stream-02.nyc.dailymotion.com/01/dm/3/x4kzk1v/live-3.m3u8
-#EXTINF:-1 tvg-id="Ecmin" tvg-logo="https://gg.gg/korea-tv" group-title="TV HÀN", M Net Countdown 
-http://d1cdshhn0sj9xt.cloudfront.net/529/QualityLevels(2628000,as=video)/Fragments(video=i,format=hls).m3u8
-#EXTINF:-1 tvg-id="Ecmin" tvg-logo="https://gg.gg/korea-tv" group-title="TV HÀN", Kênh A
-http://lgedge1.everyon.tv/lgetv1/phd1158/chunklist.m3u8
-#EXTINF:-1 tvg-id="Ecmin" tvg-logo="https://gg.gg/korea-tv" group-title="TV HÀN", Kênh A Plus
-http://lgedge1.everyon.tv/lgetv1/phd1143/chunklist.m3u8
-#EXTINF:-1 tvg-id="Ecmin" tvg-logo="https://gg.gg/korea-tv" group-title="TV HÀN", KBSN PLUS
-http://edge1.everyon.tv:1935/etv1/phd1327/chunklist.m3u8
-#EXTINF:-1 tvg-id="Ecmin" tvg-logo="https://gg.gg/korea-tv" group-title="TV HÀN", KBS 1
-rtmp://112.175.138.137:1935/1tv/_definst_/1tv_5.stream
-#EXTINF:-1 tvg-id="Ecmin" tvg-logo="https://gg.gg/korea-tv" group-title="TV HÀN", KBS 2
-rtmp://112.175.138.137:1935/2tv/_definst_/2tv_5.stream
-#EXTINF:-1 tvg-id="Ecmin" tvg-logo="https://gg.gg/korea-tv" group-title="TV HÀN", KBS JOY
-rtmp://175.158.11.60:1935/kbsn_joy/_definst_/kbsn_joy_5.stream
-#EXTINF:-1 tvg-id="Ecmin" tvg-logo="https://gg.gg/korea-tv" group-title="TV HÀN", KBS KIDS
-rtmp://112.175.138.137:1935/kbsn_kids/_definst_/kbsn_kids_5.stream
-#EXTINF:-1 tvg-id="Ecmin" tvg-logo="https://gg.gg/korea-tv" group-title="TV HÀN", KBS DRAMA
-rtmp://112.175.138.137:1935/kbsn_drama/_definst_/kbsn_drama_5.stream
-#EXTINF:-1 tvg-id="Ecmin" tvg-logo="https://gg.gg/korea-tv" group-title="TV HÀN", KBS W
-rtmp://112.175.138.137:1935/kbsn_wtv/_definst_/kbsn_wtv_5.stream
-#EXTINF:-1 tvg-id="Ecmin" tvg-logo="https://gg.gg/korea-tv" group-title="TV HÀN", KBS 24
-rtmp://112.175.138.137:1935/news24/_definst_/news24_800.stream
-#EXTINF:-1 tvg-id="Ecmin" tvg-logo="https://gg.gg/korea-tv" group-title="TV HÀN", KBS N LIFE
-rtmp://112.175.138.137:1935/kbsn_prime/_definst_/kbsn_prime_5.stream
-#EXTINF:-1 tvg-id="Ecmin" tvg-logo="https://gg.gg/korea-tv" group-title="TV HÀN", KBS SPORTS
-rtmp://112.175.138.137:1935/kbsn_sports/_definst_/kbsn_sports_5.stream
-#EXTINF:-1 tvg-id="Ecmin" tvg-logo="https://gg.gg/korea-tv" group-title="TV HÀN", KBS WORLD
-rtmp://175.158.11.60:1935/kbs_worldtv/_definst_/kbs_worldtv_4.stream
-#EXTINF:-1 tvg-id="Ecmin" tvg-logo="https://gg.gg/korea-tv" group-title="TV HÀN", YTN
-http://lgedge1.everyon.tv/lgetv1/phd1110/chunklist.m3u8
-#EXTINF:-1 tvg-id="Ecmin" tvg-logo="https://gg.gg/korea-tv" group-title="TV HÀN", YTN Life
-http://lgedge1.everyon.tv/lgetv1/phd1129/chunklist.m3u8
-#EXTINF:-1 tvg-id="Ecmin" tvg-logo="https://gg.gg/korea-tv" group-title="TV HÀN", MBC
-http://edge2.everyon.tv/etv2/phd847/HasBahCa.m3u8
-#EXTINF:-1 tvg-id="Ecmin" tvg-logo="https://gg.gg/korea-tv" group-title="TV HÀN", C TIME
-http://edge2.everyon.tv:1935/etv2/phd21/chunklist.m3u8
-#EXTINF:-1 tvg-id="Ecmin" tvg-logo="https://gg.gg/korea-tv" group-title="TV HÀN", SBS G1
-rtmp://smart.igtb.co.kr/live/stream.sdp
-#EXTINF:-1 tvg-id="Ecmin" tvg-logo="https://gg.gg/korea-tv" group-title="TV HÀN", MBN
-http://lgedge1.everyon.tv/lgetv1/phd1108/chunklist.m3u8
-#EXTINF:-1 tvg-id="Ecmin" tvg-logo="https://gg.gg/korea-tv" group-title="TV HÀN", ESB1
-http://ebsonair.ebs.co.kr:1935/groundwavefamilypc/familypc1m/chunklist.m3u8
-#EXTINF:-1 tvg-id="Ecmin" tvg-logo="https://gg.gg/korea-tv" group-title="TV HÀN", ESB2
-http://ebsonair.ebs.co.kr:1935/ebs2familypc/familypc1m/chunklist.m3u8
-#EXTINF:-1 tvg-id="Ecmin" tvg-logo="https://gg.gg/korea-tv" group-title="TV HÀN", EBS+2
-rtmp://ebsonair.ebs.co.kr:1935/plus2familypc/familypc1m
-#EXTINF:-1 tvg-id="Ecmin" tvg-logo="https://gg.gg/korea-tv" group-title="TV HÀN", ESBe
-http://ebsonair.ebs.co.kr:1935/plus3familypc/familypc1m/chunklist.m3u8
-#EXTINF:-1 tvg-id="Ecmin" tvg-logo="https://gg.gg/korea-tv" group-title="TV HÀN", EBSi
-rtmp://ebsonair.ebs.co.kr/plus1familypc/familypc1m
-#EXTINF:-1 tvg-id="Ecmin" tvg-logo="https://gg.gg/korea-tv" group-title="TV HÀN", ESB Kids
-rtmp://ebsonair.ebs.co.kr:1935/ebsufamilypc/familypc1m
-#EXTINF:-1 tvg-id="Ecmin" tvg-logo="https://gg.gg/korea-tv" group-title="TV HÀN", ONT
-http://lgedge1.everyon.tv/lgetv1/phd1161/chunklist.m3u8
-#EXTINF:-1 tvg-id="Ecmin" tvg-logo="https://gg.gg/korea-tv" group-title="TV HÀN", OBS
-http://lgedge1.everyon.tv/lgetv1/phd1113/chunklist.m3u8
-#EXTINF:-1 tvg-id="Ecmin" tvg-logo="https://gg.gg/korea-tv" group-title="TV HÀN", TRENDY
-http://edge2.everyon.tv/etv2sb/phd753/chunklist_w881820644.m3u8
-#EXTINF:-1 tvg-id="Ecmin" tvg-logo="https://gg.gg/korea-tv" group-title="TV HÀN", CMC Family Entertainment
-rtmp://edge1.everyon.tv:1935/etv1sb/phd1
+
 
 ~♥Kênh Tin Tức♥~
 #EXTINF:-1 tvg-id="Ecmin" tvg-logo="https://gg.gg/antg-hd" group-title="TIN TỨC", ANTG HD
