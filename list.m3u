@@ -1,0 +1,31 @@
+
+Phương thức thanh toán	Chuyển khoản ngân hàng
+Số tiền phải trả	408413
+Tên ngân hàng	Vietcombank
+Tên tài khoản	DUONG HAI ANH
+Số tài khoản	0511000401209
+Nội dung chuyển khoản	nmhoangclb mua REMI tu vippro123456 101491T67371374
+
+
+UPDATE congvan 
+SET soHieu=sohieu,ngayVanBan=ngayvanban,ngayHieuLuc=ngayhieuluc,noiDung=noidung,nguoiKy=nguoiky,mataptin=mataptin,conhieuluc=conhieuluc,coquanbanhanh=coquanbanhanh,hinhthucvanban=hinhthucvanban,linhvuc=linhvuc,loaivanban=loaivanban." 
+WHERE idcongvan =id";
+
+echo "	<tr>
+                                <td>". $row['soHieu'] ."</td>								
+                                <td>". $row['ngayVanBan'] ."</td>
+                                <td><a href='detail.php?id=".$row['idcongvan']."'>".$row['noiDung']."</a></td>
+                                <td><a href='./upload/".$row['Name']. "'>".  $row['Name'] ."</a></td>
+                            </tr>";
+							
+							echo "	<tr>
+								<td>". $row['soHieu'] ."</td>
+								<td>". $row['ngayVanBan'] ."</td>
+								
+								$timeFormat
+								
+		$time = strtotime($row['ngayVanBan']);
+		$timeFormat = date("m/d/Y", $time);
+		echo "<tr>
+				<td>". $row['soHieu'] ."</td>
+				<td>".$timeFormat."</td>

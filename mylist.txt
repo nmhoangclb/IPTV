@@ -1,0 +1,18 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/UNIF3e2.jpg" group-title="THVL", Vĩnh Long 1 HD
+http://baochinh.ml/iptv-thvli.php?id=vinhlong1hd
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/UNIF3e2.jpg" group-title="THVL", Vĩnh Long 2 HD
+http://baochinh.ml/iptv-thvli.php?id=vinhlong2hd
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/UNIF3e2.jpg" group-title="THVL", Vĩnh Long 1 SD
+http://baochinh.ml/iptv-hplus.php?kenh=vinhlong1
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/UNIF3e2.jpg" group-title="THVL", Vĩnh Long 2 SD
+http://baochinh.ml/iptv-hplus.php?kenh=vinhlong2
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/UNIF3e2.jpg" group-title="THVL", VTV1
+http://ott.realplaytv.net:12388/?header=hplus&name=vtv1&cdn=1
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/UNIF3e2.jpg" group-title="THVL", HTV1
+http://ott.realplaytv.net:12388/?header=hplus&name=htv1&cdn=1
