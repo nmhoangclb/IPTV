@@ -463,11 +463,7 @@ http://baochinh.ga/iptv-hplus.php?kenh=zeetv
 #EXTINF:-1 tvg-id="Ecmin" tvg-logo="https://gg.gg/axn-hd" group-title="PHIM QUỐC TẾ", AXN HD
 http://cshms4.airtel.tv/wh7f454c46tw2959729406_596421737/PLTV/88888888/224/3221226485/04.m3u8|User-Agent=VLC/3.0.0-git LibVLC/3.0.0-git
 
-~♥Kênh Thiếu Nhi♥~
-#EXTINF:-1 tvg-id="Ecmin" tvg-logo="https://gg.gg/discovery-kid" group-title="KID", DISCOVERY KID
-http://cshms3.airtel.tv/wh7f454c46tw4163224253_611767333/PLTV/88888888/224/3221225775/04.m3u8|User-Agent=VLC/3.0.0-git LibVLC/3.0.0-git8
-#EXTINF:-1 tvg-id="Ecmin" tvg-logo="https://gg.gg/bb-first" group-title="KID", BABY FIRST
-http://baochinh.ga/iptv-hplus.php?kenh=baby-first
+
 
 
 
@@ -1261,7 +1257,11 @@ http://yun.zxziyuan-yun.com/20180218/pAAsqo5o/index.m3u8
 #EXTINF:-1 group-title="Phim bộ",Phim TQ:Xinxu Qinqin - Tập 40
 http://yun.zxziyuan-yun.com/20180218/9VyJSP5Q/index.m3u8
 
-
+~♥Kênh Thiếu Nhi♥~
+#EXTINF:-1 tvg-id="Ecmin" tvg-logo="https://gg.gg/discovery-kid" group-title="Phim Thiếu Nhi", DISCOVERY KID
+http://cshms3.airtel.tv/wh7f454c46tw4163224253_611767333/PLTV/88888888/224/3221225775/04.m3u8|User-Agent=VLC/3.0.0-git LibVLC/3.0.0-git8
+#EXTINF:-1 tvg-id="Ecmin" tvg-logo="https://gg.gg/bb-first" group-title="Phim Thiếu Nhi", BABY FIRST
+http://baochinh.ga/iptv-hplus.php?kenh=baby-first
 #EXTINF:-1 group-title="Phim Thiếu Nhi" tvg-logo="",Gia Đình Mèo Quý Tộc (Thuyết Minh) – Phim Hoạt Hình
 http://phapam.tuvientuongvan.com.vn/phapam/film/HoatHinh/PhimHoatHinh-GiaDinhMeoQuiToc.mp4
 #EXTINF:-1 group-title="Phim Thiếu Nhi" tvg-logo="",Chú Mèo Đi Hia (Thuyết Minh) – Phim Hoạt Hình
